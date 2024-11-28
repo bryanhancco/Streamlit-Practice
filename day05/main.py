@@ -3,7 +3,7 @@ from graph_auth import Graph_Auth
 from RAG_Sharepoint import RAG_Sharepoint
 from streamlit_option_menu import option_menu
 
-OPENAI_API_KEY="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"
+codigo_secreto = "sk-proj-_fd356p2NJWDUlpGSZMjc4TI3tQ_RWqf1PfdOZVOn2c2cN8jdtWN1EIfluT3BlbkFJG6FqPrBH_5Y8e4-"
 
 def refresh():
     st.empty()
